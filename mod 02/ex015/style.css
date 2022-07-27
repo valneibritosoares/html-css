@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+/* SELETORES PERSONALIZADOS
+   #  = id
+   .  = class
+   :  = pseudo-class
+   :: = pseudo-element
+   >  = clildren (filho)
+*/
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(199, 226, 234);
+}
+h1{
+    text-align: center;
+    color: blue;
+    background-color: rgb(160, 220, 238);
+}
+#principal{
+    background-color: blue;
+    color: yellow;
+    font: bold 4em serif;
+}
+.basico{
+    color: green;
+}
+.intermediario{
+    color: orange;
+}
+.avancado{
+    color: red;
+}
+p{
+    text-align: justify;
+    text-indent: 30px;
+    font: bold 16px sans-serif;
+    color: rgb(10, 10, 93);
+}

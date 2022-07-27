@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body#menu{
+    background-image: linear-gradient(to right, #3d3c3cdd, #5c5cf8d0);
+}
+body#ha{
+    background-image: linear-gradient(to right, green 15%, white);
+}
+body#ht{
+    background-image: linear-gradient(to right, red, blue);
+}
+body#js{
+    background-image: linear-gradient(to right, #dede22, #f22a6d);
+}
+body#py{
+    background-image: linear-gradient(to right, blue, yellow);
+}
+main{
+    background-color: #00000095;
+    width: 500px;
+    height: 360px;
+    padding: 30px;
+    box-shadow: 5px 5px 15px #f5deb392;
+    margin: auto;
+    border-radius: 20px;
+}
+div{
+    background-color: darkslategray;
+    width: 404px;
+    padding: 15px;
+    margin: auto;
+    outline:3px solid #dede22;
+    border-radius: 20px;
+    box-shadow: 15px 15px 3px #6c614c5e;
+}
+h1,p {
+    color: aliceblue;
+    text-align: center;
+    text-shadow: 2px 2px 2px #e7f70697;
+    
+}
+

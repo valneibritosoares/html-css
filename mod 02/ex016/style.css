@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+
+h1{
+    background-color: blue;
+    height: 120px;
+    width: 400px;
+    border-width: 30px;
+    border-color: blueviolet cadetblue brown aqua;
+    border-style: dotted solid dashed double;
+    padding: 69px 10px 10px 10px;
+    /*A ORDEM: Cima Direita Embaixo Esquerda;
+
+    padding-top: 69px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    */
+    margin: 40px auto;
+
+    outline: 10px solid rgb(99, 236, 7);
+
+    border-radius: 150px 50px;
+    
+    color: yellow;
+    text-align: center;
+}
+a{
+    background-color: yellow;
+    text-align: center;
+    border: 1.6px solid blue;
+}
